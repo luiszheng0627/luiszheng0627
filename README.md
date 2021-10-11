@@ -60,14 +60,13 @@
 📆 2019 - Present\
 📍 **Self Employed** - São Paulo/SP, Brazil
 
-<img align="right" src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
+<img align="right" src="https://img.shields.io/badge/Vue-35495E?logo=vuedotjs&logoColor=4FC08D" />
 <img align="right" src="https://img.shields.io/badge/AWS-{232F3E}?logo=amazonaws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/NativeScript-3655FF?logo=NativeScript&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/NS-3655FF?logo=NativeScript&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/ReactNative-20232A?logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/RN-20232A?logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" />
 
@@ -88,14 +87,13 @@
 </script>
 -->
 
-<img align="right" src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
+<img align="right" src="https://img.shields.io/badge/Vue-35495E?logo=vuedotjs&logoColor=4FC08D" />
 <img align="right" src="https://img.shields.io/badge/AWS-{232F3E}?logo=amazonaws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/NativeScript-3655FF?logo=NativeScript&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/NS-3655FF?logo=NativeScript&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/ReactNative-20232A?logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/RN-20232A?logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" />
 
