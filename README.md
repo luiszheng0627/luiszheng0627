@@ -41,20 +41,20 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/NFT-3DDC84?logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Substrate-02569B?logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/NFT-3DDC84?logoColor=white&logo=NFT" />
+<img align="right" src="https://img.shields.io/badge/Substrate-02569B?logoColor=white&logo=Substrate" />
 <img align="right" src="https://img.shields.io/badge/Blockchain-FF4500?logo=blockchain.com&logoColor=white" />
 
 - 👨‍💻 **Blockchain Developer**\
 📆 Jul/2021 - Present\
 📍 **Catena Team**
 
-<img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/AAVE-3DDC84?logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Uniswap-3880FF?logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/NFT-20232A?logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/ERC20-2CA5E0?logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/ERC721-35495E?logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
+<img align="right" src="https://img.shields.io/badge/AAVE-3DDC84?logoColor=white&logo=Ethereum" />
+<img align="right" src="https://img.shields.io/badge/Uniswap-3880FF?logoColor=white&logo=Ethereum" />
+<img align="right" src="https://img.shields.io/badge/NFT-20232A?logoColor=white&logo=Ethereum" />
+<img align="right" src="https://img.shields.io/badge/ERC20-2CA5E0?logoColor=white&logo=Ethereum" />
+<img align="right" src="https://img.shields.io/badge/ERC721-35495E?logoColor=white&logo=Ethereum" />
 
 - 👨‍💻 **Smart Contract Developer**\
 📆 2019 - Present\
@@ -68,7 +68,7 @@
 <img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/RN-20232A?logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
 📆 2016 - Present\
@@ -95,21 +95,21 @@
 <img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/RN-20232A?logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
 📆 2012 - 2018\
 📍 **Odesk, Elance / Upwork Freelancer**
 
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
 
 - 👨‍💻 **Mobile developer**\
 📆 2011 - 2012\
 📍 **Alios IT LTD**
 
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
 
 - 👨‍💻 **Mobile app Developer**\
 📆 2010 - 2011\
