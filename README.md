@@ -76,12 +76,6 @@
 📍 **PeoplePerhour Freelancer**
 
 <!--
-    PeoplePerHour Profile Widget
-    The div#pph-hire me is the element
-    where the iframe will be inserted.
-    You may move this element wherever
-    you need to display the widget
--->
 <div id="pph-hireme"></div>
 <script type="text/javascript">
 (function(d, s) {
@@ -92,6 +86,7 @@
     try { where.parentNode.insertBefore(js, where); } catch (e) { if (typeof console !== 'undefined' && console.log && e.stack) { console.log(e.stack); } }
 }(document, 'script'));
 </script>
+-->
 
 <img align="right" src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
 <img align="right" src="https://img.shields.io/badge/AWS-{232F3E}?logo=amazonaws&logoColor=white" />
