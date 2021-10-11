@@ -119,13 +119,13 @@
 
 PL | Experiences | Years
 ------------ | ------------- | -------------
-<img src="https://img.shields.io/badge/JAVA-Android app develop-blue?style=for-the-badge&logoColor=white" /> | 8 / 10 | 15
-<img src="https://img.shields.io/badge/Kotlin-Android app develop-blue?style=for-the-badge&logoColor=white" /> | 9 / 10 | 12
-<img src="https://img.shields.io/badge/ObjectiveC-Android app develop-blue?style=for-the-badge&logoColor=white" /> | 9 / 10 | 12
-<img src="https://img.shields.io/badge/Swift-Android app develop-blue?style=for-the-badge&logoColor=white" /> | 9 / 10 | 10
-<img src="https://img.shields.io/badge/JS /TS-Hybrid app dev-blue?style=for-the-badge&logoColor=white" /> | 8 / 10 | 6
-<img src="https://img.shields.io/badge/Dart-Flutter app develop-blue?style=for-the-badge&logoColor=white" /> | 9 / 10 | 4
-<img src="https://img.shields.io/badge/Solidity-Smart contract develop-blue?style=for-the-badge&logoColor=white" /> | 8 of 10 | 2
-<img src="https://img.shields.io/badge/Rust-Blockchain & Smart contract-blue?style=for-the-badge&logoColor=white" /> | 8 of 10 | 1.5
-
+<img src="https://img.shields.io/badge/JAVA-Android app develop-blue?style=for-the-badge&logo=java&logoColor=white" /> | 8 / 10 | 15
+<img src="https://img.shields.io/badge/Kotlin-Android app develop-blue?style=for-the-badge&logo=kotlin&logoColor=white" /> | 9 / 10 | 12
+<img src="https://img.shields.io/badge/ObjectiveC-iOS app develop-blue?style=for-the-badge&logo=ObjC&logoColor=white" /> | 9 / 10 | 12
+<img src="https://img.shields.io/badge/Swift-iOS app develop-blue?style=for-the-badgee&logo=swift&logoColor=white" /> | 9 / 10 | 10
+<img src="https://img.shields.io/badge/JS /TS-Hybrid app dev-blue?style=for-the-badge&logo=javascript&logoColor=white" /> | 8 / 10 | 6
+<img src="https://img.shields.io/badge/Dart-Flutter app develop-blue?style=for-the-badge&logo=dart&logoColor=white" /> | 9 / 10 | 4
+<a href="https://docs.soliditylang.org/en/v0.8.9/"><img src="https://img.shields.io/badge/Solidity-Smart Contract-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></a> | 8 of 10 | 2
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-Blockchian & Smart Contract-black?style=for-the-badge&logo=rust&logoColor=#E57324"></a> | 8 of 10 | 1.5
+<a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"></a> | 8 of 10 | 1
 </details>
