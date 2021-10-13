@@ -49,6 +49,15 @@
 📆 Jul/2021 - Present\
 📍 **Catena Team**
 
+<img align="right" src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
+
+- 👨‍💻 **Head Mobile Developer**\
+📆 Jan/2019 - Present\
+📍 **MyStreet Tech.LTD**
+  
 <img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
 <img align="right" src="https://img.shields.io/badge/AAVE-3DDC84?logoColor=white&logo=Ethereum" />
 <img align="right" src="https://img.shields.io/badge/Uniswap-3880FF?logoColor=white&logo=Ethereum" />
@@ -100,6 +109,13 @@
 - 👨‍💻 **Software Developer**\
 📆 2012 - 2018\
 📍 **Odesk, Elance / Upwork Freelancer**
+  
+<img align="right" src="https://img.shields.io/badge/MAC-000000?logo=apple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
+ 
+- 👨‍💻 **Mac & iOS App Developer**\
+📆 Jan/2013 - Dec/2014\
+📍 **Popboardz team**
 
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
