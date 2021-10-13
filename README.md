@@ -7,7 +7,7 @@
   <a href="https://www.peopleperhour.com/freelancer/technology-programming/lu-zheng-flutter-mobile-expert-xqqwaz">
     <img src="https://img.shields.io/badge/PeoplePerHour-orange?style=for-the-badge&logo=Peopleperhour" />
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/zhenglu">
+  <a href="https://join.skype.com/invite/MeTVsh4Ktf1W">
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/zhenglu">
