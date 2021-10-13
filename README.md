@@ -67,7 +67,7 @@
 
 - 👨‍💻 **Smart Contract Developer**\
 📆 2019 - Present\
-📍 **Self Employed** - São Paulo/SP, Brazil
+📍 **Self Employed**
 
 <img align="right" src="https://img.shields.io/badge/Vue-35495E?logo=vuedotjs&logoColor=4FC08D" />
 <img align="right" src="https://img.shields.io/badge/AWS-{232F3E}?logo=amazonaws&logoColor=white" />
