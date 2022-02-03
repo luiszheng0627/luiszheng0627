@@ -36,7 +36,7 @@
 ## Education
 
 - 📖 **Master's degree, Information Technology**\
-📆 2006 - 2010\
+📆 2006 - 2009\
 📍 **Tsinghua University**
 
 ## Experience
