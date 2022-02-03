@@ -1,5 +1,5 @@
 <h1 align='center'>Hi 👋, I'm ZhengLu 👨‍💻</h1>
-<p align='center'>Polkadot/Substrate Blockchain Developer, iOS/Android/Flutter Expert</p>
+<p align='center'>Polkadot | Substrate | OympusDao | Rust | Solidty | iOS | Android | Flutter</p>
 <p align='center'>
   <a href="https://linkedin.com/in/lu-zheng-298363133/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
