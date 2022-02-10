@@ -107,7 +107,7 @@
 <img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
-📆 2012 - 2018\
+📆 2012 - 2019\
 📍 **Odesk, Elance / Upwork Freelancer**
   
 <img align="right" src="https://img.shields.io/badge/MAC-000000?logo=apple&logoColor=white" />
@@ -121,15 +121,12 @@
 <img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
 
 - 👨‍💻 **Mobile Game developer**\
-📆 2011 - 2012\
+📆 2011 - 2011\
 📍 **Alios IT LTD**
 
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
 
-- 👨‍💻 **Mobile app Developer**\
-📆 2010 - 2011\
-📍 **Self-employed**
 
 ## Programmig Languages
 
