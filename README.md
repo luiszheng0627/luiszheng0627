@@ -90,7 +90,7 @@
 <img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
  
 - 👨‍💻 **Mac & iOS App Developer**\
-📆 Jan/2013 - Dec/2014\
+📆 01/2013 - 12/2014\
 📍 **Popboardz team**
 
 ## Programmig Languages
