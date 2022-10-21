@@ -33,26 +33,17 @@
 <details>
   <summary>📃 Resume</summary>
 
-## Education
-
-- 📖 **Master's degree, Information Technology**\
-📆 2006 - 2009\
-📍 **Tsinghua University**
-
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/NFT-3DDC84?logoColor=white&logo=NFT" />
 <img align="right" src="https://img.shields.io/badge/Substrate-02569B?logoColor=white&logo=Substrate" />
 <img align="right" src="https://img.shields.io/badge/Blockchain-FF4500?logo=blockchain.com&logoColor=white" />
 
-- 👨‍💻 **Blockchain Developer**\
-📆 Jul/2021 - Present\
-📍 **Catena Team**
+- 👨‍💻 **Senior Smart contract & Web3 engineer**\
+📆 Mar/2022 - Present\
+📍 **Avarta**
 
-<img align="right" src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
 
 - 👨‍💻 **Head Mobile Developer**\
 📆 Jan/2019 - Present\
