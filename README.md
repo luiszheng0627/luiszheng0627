@@ -1,10 +1,8 @@
-<head>
 <style>
     table {
         width: 100%;
     }
 </style>
-</head>
 
 <h1 align='center'>Hi 👋, I'm ZhengLu 👨‍💻</h1>
 <p align='center'>Ethereum | Polkadot | Solana | CosmosSDK | Rust | Solidty | iOS | Android | Flutter</p>
