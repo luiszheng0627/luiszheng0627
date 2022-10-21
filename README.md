@@ -95,8 +95,6 @@
 
 ## Programmig Languages
 
----
-
 | Programing Language                                                                                                         | Experiences | Years |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------- | ----- |
 | <img src="https://img.shields.io/badge/Solidity-Smart Contract-blue?style=for-the-badge&logo=solidity&logoColor=white">     | 8 of 10     | 3     |
