@@ -30,7 +30,7 @@
 <img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
 
 - 👨‍💻 **Senior Smart contract & Web3 engineer**\
-  📆 03/2022 - Present\
+  📆 02/2022 - 03/2023\
   📍 **Avarta, Me3**
 
 <img align="right" src="https://img.shields.io/badge/Solana-20232A?logoColor=white&logo=Solana" />
