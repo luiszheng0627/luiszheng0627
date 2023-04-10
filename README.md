@@ -7,7 +7,7 @@
   <a href="https://join.skype.com/invite/MeTVsh4Ktf1W">
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/zhenglu">
+  <a href="https://t.me/LuizZheng">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
@@ -29,11 +29,10 @@
 <img align="right" src="https://img.shields.io/badge/NFT-20232A?logoColor=white&logo=Ethereum" />
 <img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
 
-- 👨‍💻 **Senior Smart contract & Web3 engineer**\
-  📆 02/2022 - 03/2023\
+- 👨‍💻 **Senior Smart contract & Fullstack Engineer**\
+  📆 01/2022 - 03/2023\
   📍 **Avarta, Me3**
-
-<img align="right" src="https://img.shields.io/badge/Solana-20232A?logoColor=white&logo=Solana" />
+  
 <img align="right" src="https://img.shields.io/badge/NFT-20232A?logoColor=white&logo=Ethereum" />
 <img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
 
@@ -45,7 +44,7 @@
 <img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
 
 - 👨‍💻 **Smart contract & Backend engineer**\
-  📆 10/2021 - 03/2022\
+  📆 09/2021 - 01/2022\
   📍 **Louverture Finance**
 
 <img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
@@ -62,18 +61,8 @@
 <img align="right" src="https://img.shields.io/badge/Uniswap-3880FF?logoColor=white&logo=Ethereum" />
 <img align="right" src="https://img.shields.io/badge/NFT-20232A?logoColor=white&logo=Ethereum" />
 
-- 👨‍💻 **Senior smart contract engineer**\
-  📆 09/2021 - 12/2021\
-  📍 **SolChicks**
-
-<img align="right" src="https://img.shields.io/badge/AWS-{232F3E}?logo=amazonaws&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
-
 - 👨‍💻 **Head Mobile Developer**\
-  📆 01/2019 - 06/2021\
+  📆 06/2020 - 11/2021\
   📍 **MyStreet Tech.LTD**
 
 <img align="right" src="https://img.shields.io/badge/AWS-{232F3E}?logo=amazonaws&logoColor=white" />
@@ -82,15 +71,25 @@
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
 
+- 👨‍💻 **Head android engineer**\
+  📆 06/2020 - 11/2021\
+  📍 **Nebo.Global**
+
+<img align="right" src="https://img.shields.io/badge/AWS-{232F3E}?logo=amazonaws&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
+
 - 👨‍💻 **Freelancer**\
-  📆 2016 - Present\
+  📆 2016 - 2022\
   📍 **PeoplePerhour Freelancer**
 
 <img align="right" src="https://img.shields.io/badge/MAC-000000?logo=apple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
  
 - 👨‍💻 **Mac & iOS App Developer**\
-📆 01/2013 - 12/2014\
+📆 06/2018 - 04/2020\
 📍 **Popboardz team**
 
 ## Programmig Languages
