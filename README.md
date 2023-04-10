@@ -36,10 +36,6 @@
 <img align="right" src="https://img.shields.io/badge/NFT-20232A?logoColor=white&logo=Ethereum" />
 <img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
 
-- 👨‍💻 **Smart contract & Backend engineer**\
-  📆 12/2021 - 06/2022\
-  📍 **MetaVersus**
-
 <img align="right" src="https://img.shields.io/badge/NFT-20232A?logoColor=white&logo=Ethereum" />
 <img align="right" src="https://img.shields.io/badge/Etherium-232F3E?logoColor=white&logo=Ethereum" />
 
