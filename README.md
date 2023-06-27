@@ -1,11 +1,9 @@
 <h1 align='center'>Hi 👋, I'm Luiz Zheng 👨‍💻</h1>
 <p align='center'>Ethereum | Polkadot | Solana | CosmosSDK | Rust | Solidty | iOS | Android | Flutter</p>
 
-<object data="resume/resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="resume/resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="resume/resume.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<a href="resume/resume.pdf">
+![](resume/resume.jpg)
+</a>
 
 ## Programmig Languages
 
