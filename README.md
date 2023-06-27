@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋, I'm Luiz Zheng 👨‍💻</h1>
 <p align='center'>Ethereum | Polkadot | Solana | CosmosSDK | Rust | Solidty | iOS | Android | Flutter</p>
 
-<iframe width="100%" height="800" src="resume/resume.pdf">
+[embed]resume/resume.pdf"[/embed]
 
 ## Programmig Languages
 
