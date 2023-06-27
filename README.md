@@ -1,4 +1,6 @@
-<h1 align='center'>Hi 👋, I'm Luiz Zheng 👨‍💻</h1>
+<h1 align='center'>
+Hi 👋, I'm <a href="resume/resume.pdf">Luiz Zheng</a> 👨‍💻
+</h1>
 <p align='center'>Ethereum | Polkadot | Solana | CosmosSDK | Rust | Solidty | iOS | Android | Flutter</p>
 
 ![](resume/resume.jpg)
