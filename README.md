@@ -27,6 +27,4 @@ Hi 👋, I'm <a href="resume/resume.pdf">Luiz Zheng</a> 👨‍💻
   📫 How to reach me: <a href='mailto:zl910627@yahoo.com'>zl910627@yahoo.com</a>
 </p>
 
-## My Resume
-
 ![](resume/resume.jpg)
